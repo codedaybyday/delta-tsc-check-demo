@@ -1,6 +1,6 @@
 # delta-tsc-check-demo
 
-1. pnpm i
+1. `pnpm i`
 2. write some error ts code for example: test.ts
 
 ```js
@@ -26,6 +26,6 @@ console.log(greet(person));
 
 ```
 
-3. git add test.ts 
+3. `git add test.ts` 
 
-4. npx lint-staged
+4. `npx lint-staged`
